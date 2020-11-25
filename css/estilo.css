@@ -77,6 +77,10 @@ h1 a:hover {
     font-size: 12px;
 }
 
+.lateral a {
+    color: #05386b;
+}
+
 .rodape {
     font-size: 12px;
     text-align: center;
