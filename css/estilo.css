@@ -16,7 +16,7 @@ h1 {
     border-color: #ccc #999 #999 #ccc;
     padding: 10px;
     background: white;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .lugar h2 {
@@ -55,6 +55,29 @@ h1 a:hover {
     clear: both;
 }
 
+.lugares {
+    width: 660px;
+    float: left;
+}
+
+.lateral {
+    background: #8ee4af;
+    border: 1px solid #379683;
+    padding: 10px;
+    width: 260px;
+    float: right;
+}
+
+.lateral h3 {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.lateral ul {
+    font-size: 12px;
+}
+
 .rodape {
+    font-size: 12px;
     text-align: center;
 }
